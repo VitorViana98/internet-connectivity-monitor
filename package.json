@@ -1,0 +1,19 @@
+{
+  "name": "monitor-internet",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "dotenv": "^16.4.7",
+    "nodemon": "^3.1.9",
+    "speedtest-net": "^2.2.0"
+  },
+  "type": "module"
+}
