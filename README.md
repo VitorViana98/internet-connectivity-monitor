@@ -38,7 +38,7 @@ This project is designed to continuously monitor internet connectivity by sendin
 To run this project, you'll need:
 
 - [Node.js](https://nodejs.org/) (v14 or later)
-- `npm` or `yarn` for managing dependencies
+- `npm` for managing dependencies
 
 ## Installation
 
@@ -118,16 +118,6 @@ Errors are logged if the ping command fails. The tool retries up to `maxRetries`
   "error": "Error executing ping: Command failed: ping -n 1 8.8.8.8"
 }
 ```
-
-## Contributing
-
-We welcome contributions to improve the functionality and stability of this project. If you'd like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-xyz`).
-3. Commit your changes (`git commit -am 'Add feature xyz'`).
-4. Push to your branch (`git push origin feature-xyz`).
-5. Create a new Pull Request.
 
 ### Code Style
 
