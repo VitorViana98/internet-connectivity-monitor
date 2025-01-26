@@ -45,7 +45,7 @@ To run this project, you'll need:
 ### 1. Clone the repository:
 
 ``` bash
-git clone https://github.com/your-username/internet-connectivity-monitor.git
+git clone https://github.com/VitorViana98/internet-connectivity-monitor.git
 cd internet-connectivity-monitor
 ```
 
